@@ -8,3 +8,4 @@ timeToRead = 5
 title = "Sample Blog Post 1"
 
 +++
+This is a blog post
