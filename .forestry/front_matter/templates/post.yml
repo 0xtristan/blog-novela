@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/sample-blog-post-1-1.md
 - content/post/sample-blog-post-1.md
